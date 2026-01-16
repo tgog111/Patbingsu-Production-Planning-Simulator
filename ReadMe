@@ -1,0 +1,10 @@
+작동방법
+
+1. backend folder FastAPI 서버 키기
+실행코드
+uvicorn main:app --reload
+
+
+2. frontend folder app.py 파일 실행
+실행코드
+streamlit run app.py
